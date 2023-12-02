@@ -1,0 +1,11 @@
+nr_obserwacji;si�a_wiatru;zachmurzenie;odczuwalna_temperatura;zagrano_mecz
+1;silny;pochmurnie;zimno;nie
+2;silny;pochmurnie;cieplo;nie
+3;brak;slonecznie;cieplo;tak
+4;brak;slonecznie;goraco;nie
+5;slaby;pochmurnie;goraco;tak
+6;slaby;slonecznie;cieplo;tak
+7;brak;pochmurnie;zimno;nie
+8;silny;slonecznie;zimno;tak
+9;brak;pochmurnie;goraco;tak
+10;silny;pochmurnie;cieplo;tak
